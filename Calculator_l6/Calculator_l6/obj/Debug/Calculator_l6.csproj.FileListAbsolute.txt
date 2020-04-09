@@ -1,0 +1,9 @@
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\bin\Debug\Calculator_l6.exe.config
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\bin\Debug\Calculator_l6.exe
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\bin\Debug\Calculator_l6.pdb
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\obj\Debug\Calculator_l6.csprojAssemblyReference.cache
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\obj\Debug\Calculator_l6.Properties.Resources.resources
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\obj\Debug\Calculator_l6.csproj.GenerateResource.cache
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\obj\Debug\Calculator_l6.exe
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\obj\Debug\Calculator_l6.pdb
+C:\Users\Екатерина Захаренко\source\repos\Calculator_l6\Calculator_l6\obj\Debug\Calculator_l6.Form1.resources
